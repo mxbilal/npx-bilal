@@ -7,7 +7,7 @@ function logDetails() {
   const email = "mxbilal0@gmail.com";
   const githubLink = "https://github.com/mxbilal";
   const linkedinLink = "https://linkedin.com/in/mxbilal0";
-  const card = "npx npx-bilal";
+  const card = "npx mxbilal0";
 
   // Create a colorful box using ANSI escape codes
   const colorfulBox = `  \x1b[38;5;51m+---------------------------------------------------------------+
